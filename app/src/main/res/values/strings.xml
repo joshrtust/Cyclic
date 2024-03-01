@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cyclic</string>
+    <string name="username_hint">username: </string>
+    <string name="pwd_hint">password: </string>
+    <string name="login">Login</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="username">username</string>
+    <string name="registerbtn">REGISTER</string>
+    <string name="register">Register</string>
+    <string name="email">email</string>
+    <string name="click_to_login">Sign In?\n</string>
+    <string name="click_to_register">Sign Up?</string>
+    <string name="logout">LOG OUT</string>
+    <string name="admin">Admin</string>
+    <string name="organizer">Organizer</string>
+    <string name="participant">Participant</string>
+    <string name="Age">Age</string>
+    <string name="Pace">Pace</string>
+    <string name="Level">Level</string>
+    <string name="create_event">Create Event</string>
+    <string name="event_creator">Event Creator</string>
+    <string name="add_event">Add Event</string>
+    <string name="EventName">Event Name</string>
+    <string name="event_editor">Event Editor</string>
+    <string name="enter_event_name">Enter event name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="enter_pace">Enter pace</string>
+    <string name="enter_level">Enter level</string>
+    <string name="edit_users">Edit Users</string>
+    <string name="delete">Delete</string>
+    <string name="my_profile_information">My Profile Information</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="myEvents">My Events</string>
+    <string name="all_events">All Events:</string>
+    <string name="join_event">Join Event</string>
+    <string name="event_type">event name,type or club name</string>
+</resources>
